@@ -11,9 +11,9 @@ An application for maintaining a movie theater reservation system. The system ha
 - The administrator can add movies and screenings as well as browse reservations 
 
 ## 2. Solution Principle
-Users interact with the system via graphical interface.
-The system uses an object-oriented design, abstracting entities into classes.
-Data persistence is achieved through file storage system.
+Users interact with the system via graphical interface.  
+The system uses an object-oriented design, abstracting entities into classes.  
+Data persistence is achieved through file storage system.  
 
 ## 3. Project Structure
 
