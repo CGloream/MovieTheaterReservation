@@ -1,6 +1,6 @@
 # MovieTheaterReservation
-Author: Cheng Xu 
-a project for course "Basics of Programming - Exercise" 
+Author: Cheng Xu  
+a project for course "Basics of Programming - Exercise"  
 
 ## 1. Topic Description
 An application for maintaining a movie theater reservation system. The system has the following minimum requirements: 
@@ -59,8 +59,8 @@ User → Select Movie → Select Screening → Choose Seats → Confirm Reservat
 Administrator Add Screening Process
 Administrator → Login → Select "Add Screening" → Input Movie, Time, Screening Room → System Validation → Save Data 
 
-**Admin Account: admin** 
-**Admin password: admin123** 
+**Admin Account: admin**  
+**Admin password: admin123**  
 
 ## 6. Something to be improved
 
