@@ -1,0 +1,97 @@
+{
+    "name": "CHENG Movie Theater",
+    "movies": [
+        {
+            "id": 1,
+            "title": "Avengers: Endgame",
+            "duration": 181,
+            "rating": "PG-13",
+            "description": "The final chapter in the Marvel Cinematic Universe, where the remaining heroes must band together to reverse the damage caused by Thanos."
+        },
+        {
+            "id": 2,
+            "title": "Titanic",
+            "duration": 194,
+            "rating": "PG-13",
+            "description": "A fictionalized account of the sinking of the RMS Titanic, and the love story between two passengers from different social classes."
+        },
+        {
+            "id": 3,
+            "title": "Avatar",
+            "duration": 162,
+            "rating": "PG-13",
+            "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home."
+        }
+    ],
+    "screening_rooms": [
+        {
+            "id": 1,
+            "name": "Room 1",
+            "rows": 10,
+            "cols": 15
+        },
+        {
+            "id": 2,
+            "name": "Room 2",
+            "rows": 8,
+            "cols": 12
+        },
+        {
+            "id": 3,
+            "name": "Room 3",
+            "rows": 12,
+            "cols": 20
+        }
+    ],
+    "screenings": [
+        {
+            "id": 1,
+            "movie_id": 1,
+            "room_id": 1,
+            "start_time": "2025-07-23 01:06",
+            "price": 80.0,
+            "reserved_seats": []
+        },
+        {
+            "id": 2,
+            "movie_id": 1,
+            "room_id": 1,
+            "start_time": "2025-07-23 04:06",
+            "price": 80.0,
+            "reserved_seats": []
+        },
+        {
+            "id": 3,
+            "movie_id": 2,
+            "room_id": 2,
+            "start_time": "2025-07-23 00:06",
+            "price": 75.0,
+            "reserved_seats": []
+        },
+        {
+            "id": 4,
+            "movie_id": 2,
+            "room_id": 2,
+            "start_time": "2025-07-23 03:06",
+            "price": 75.0,
+            "reserved_seats": []
+        },
+        {
+            "id": 5,
+            "movie_id": 3,
+            "room_id": 3,
+            "start_time": "2025-07-23 02:06",
+            "price": 90.0,
+            "reserved_seats": []
+        },
+        {
+            "id": 6,
+            "movie_id": 3,
+            "room_id": 3,
+            "start_time": "2025-07-23 05:06",
+            "price": 90.0,
+            "reserved_seats": []
+        }
+    ],
+    "reservations": []
+}
