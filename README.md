@@ -60,7 +60,7 @@ Administrator Add Screening Process
 Administrator → Login → Select "Add Screening" → Input Movie, Time, Screening Room → System Validation → Save Data
 
 **Admin Account: admin**
-**Admin password: admin123***
+**Admin password: admin123**
 
 ## 6. Something to be improved
 
