@@ -53,10 +53,10 @@ Data persistence is achieved through file storage system.
 
 ## 5. User Process
 
-User Reservation Process
+User Reservation Process  
 User → Select Movie → Select Screening → Choose Seats → Confirm Reservation → System Validation → Generate Reservation Code → Save Data 
 
-Administrator Add Screening Process
+Administrator Add Screening Process  
 Administrator → Login → Select "Add Screening" → Input Movie, Time, Screening Room → System Validation → Save Data 
 
 **Admin Account: admin**  
